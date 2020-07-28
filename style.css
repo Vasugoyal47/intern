@@ -1,0 +1,145 @@
+
+
+
+
+.touch
+{
+  margin-top: 100px;
+}
+
+.check
+{
+  display: none;
+  margin-top: 100px;
+  padding-bottom: 100px;
+  padding-right: 180px;
+
+  font-size: 2rem;
+}
+
+img
+{
+  width:90%;
+  height:90%;
+}
+.middle
+{
+  margin: auto;
+}
+.tag
+{
+  width:90%;
+  height:90%;
+}
+button {
+
+  margin-top:120px;
+  width:150px;
+  height:45px;
+  border-radius:2px;
+  color:red;
+  background-color:yellow;
+  border:none;
+  border-bottom:6px solid yellow;
+}
+.middle
+{
+  padding-left: 230px;
+  padding-right: 300px;
+}
+body
+{
+ text-align:center;
+ width:100%;
+ margin:0 auto;
+ padding:0px;
+ font-family:helvetica;
+
+  background-color: black;
+
+background-repeat: none;
+background-size: cover;
+}
+#wrapper
+{
+ text-align:center;
+ margin:0 auto;
+ padding:0px;
+ width:995px;
+}
+#effect
+{
+ position:relative;
+ width:60%;
+ height:280px;
+ margin:auto;
+ box-shadow:0px 0px 6px 2px #003B83;
+ margin-top:200px;
+ background:#FFF;
+}
+#effect h1
+{
+ line-height:5.5em;
+ margin:auto;
+ font-size:50px;
+ color:red;
+}
+#curtain1
+{
+ top:0px;
+ position:absolute;
+ left:0px;
+ height:294px;
+}
+#curtain2
+{
+ top:0px;
+ position:absolute;
+ height:294px;
+ right:0px;
+}
+#curtain_buttons input[type="button"]
+{
+ margin-top:120px;
+ width:150px;
+ height:45px;
+ border-radius:2px;
+ color:red;
+ background-color:yellow;
+ border:none;
+ border-bottom:6px solid yellow;
+}
+#cur2
+{
+  display: none;
+}
+.text
+{
+  color:red;
+}
+#cur3
+{
+  margin-top: 100px;
+}
+
+
+
+
+@media only screen and (max-width: 1200px) {
+
+  body
+  {
+   text-align:center;
+   width:50%;
+
+  padding-top: 500px;
+    padding-bottom: 800px;
+  padding-right:500px;
+   font-family:helvetica;
+
+    background-color: black;
+
+
+
+  }
+}
